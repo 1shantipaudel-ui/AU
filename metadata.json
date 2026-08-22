@@ -1,0 +1,6 @@
+{
+  "name": "ALEX",
+  "description": "ALEX: Hands-free empathetic AI voice assistant and smart device controller supporting Hindi, Nepali, and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
